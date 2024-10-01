@@ -252,5 +252,4 @@ class Main {
 		obj.add(gamePlay);
 		
 	}
-
 }
