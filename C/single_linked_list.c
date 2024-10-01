@@ -1,4 +1,4 @@
-// Creating a Single Linked List: Example 2
+// Creating a Single Linked List:
 // C-program to store 10 values on a linked list reading the data from keyboard.
 
 #include <stdio.h>
